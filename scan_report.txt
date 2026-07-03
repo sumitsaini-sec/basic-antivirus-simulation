@@ -1,0 +1,9 @@
+BASIC ANTIVIRUS SIMULATION - SCAN REPORT
+Scan Date & Time: 2026-07-03 12:52:30.460982
+------------------------------------------------------------
+CLEAN | normal_notes.txt | SHA-256: cda92c0f89df1e382e7137d1e6970fab7743d9643aaaae0d3ee3900c0e156c49
+DETECTED | sample_malware.txt | Demo Malware Sample | SHA-256: 2c753329b07bc491d68d9d1d190ae7b8fbcc773a7039c478c7553bddb719c67a
+------------------------------------------------------------
+Total files scanned: 2
+Clean files: 1
+Malicious files detected: 1
